@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fast-lane-mohabbat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Fast Lane Mohabbat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fast-lane-mohabbat/) |
+| **Get License** | [Get a Licensing Quote for Fast Lane Mohabbat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fast-lane-mohabbat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਅੱਖੀਆਂ 'ਚ ਨਸ਼ਾ ਤੇਰਾ mind out of space ਨੀ
+> ਦਿਲ ਮੇਰਾ ਲੱਭਦਾ ਐ wild little chase ਨੀ
+> ਰਾਤਾਂ ਨੂੰ ਮੈਂ ਜਾਗਦਾ ਹਾਂ catching your vibe
+> ਇਸ਼ਕ 'ਚ ਡੁੱਬ ਗਿਆ feeling alive
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
